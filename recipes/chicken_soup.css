@@ -1,0 +1,20 @@
+h1, h2 {
+    color: #222222;
+   font-family: "Frank Ruhl Libre", Georgia, serif;
+   font-weight: 500;
+   font-size: 36px;
+   text-align: center;
+   background-color: #f0f9f9;
+}
+
+ul, ol, li {
+    font-weight: 400;
+    font-size: 16px;
+    background-color:#FFE7D9;
+    
+}
+
+b {
+    color:#004d4d;
+    font-weight: 700;
+}
